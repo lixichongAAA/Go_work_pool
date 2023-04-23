@@ -1,0 +1,155 @@
+New a worker (0)
+New a worker (1)
+New a worker (2)
+New a worker (3)
+New a worker (4)
+Register private JobChannel to public WorkPool  {2 0xc00007c180 0xc0000262a0 0xc000026300}
+Register private JobChannel to public WorkPool  {0 0xc00007c180 0xc000026120 0xc000026180}
+Register private JobChannel to public WorkPool  {1 0xc00007c180 0xc0000261e0 0xc000026240}
+Register private JobChannel to public WorkPool  {3 0xc00007c180 0xc000026360 0xc0000263c0}
+Register private JobChannel to public WorkPool  {4 0xc00007c180 0xc000026420 0xc000026480}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Get a job from private w.JobChannel
+{{1}}
+Worker's private jobChannel add one job
+Register private JobChannel to public WorkPool  {1 0xc00007c180 0xc0000261e0 0xc000026240}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+Register private JobChannel to public WorkPool  {2 0xc00007c180 0xc0000262a0 0xc000026300}
+Register private JobChannel to public WorkPool  {3 0xc00007c180 0xc000026360 0xc0000263c0}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+Register private JobChannel to public WorkPool  {0 0xc00007c180 0xc000026120 0xc000026180}
+Register private JobChannel to public WorkPool  {4 0xc00007c180 0xc000026420 0xc000026480}
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+JobQueue add one job
+JobQueue add one job
+Register private JobChannel to public WorkPool  {1 0xc00007c180 0xc0000261e0 0xc000026240}
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+JobQueue add one job
+Register private JobChannel to public WorkPool  {2 0xc00007c180 0xc0000262a0 0xc000026300}
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+Register private JobChannel to public WorkPool  {3 0xc00007c180 0xc000026360 0xc0000263c0}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+Register private JobChannel to public WorkPool  {0 0xc00007c180 0xc000026120 0xc000026180}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+Register private JobChannel to public WorkPool  {4 0xc00007c180 0xc000026420 0xc000026480}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+Register private JobChannel to public WorkPool  {1 0xc00007c180 0xc0000261e0 0xc000026240}
+JobQueue add one job
+Get a job from JobQueue
+Register private JobChannel to public WorkPool  {2 0xc00007c180 0xc0000262a0 0xc000026300}
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+Register private JobChannel to public WorkPool  {3 0xc00007c180 0xc000026360 0xc0000263c0}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+Register private JobChannel to public WorkPool  {0 0xc00007c180 0xc000026120 0xc000026180}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+JobQueue add one job
+Register private JobChannel to public WorkPool  {4 0xc00007c180 0xc000026420 0xc000026480}
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Register private JobChannel to public WorkPool  {1 0xc00007c180 0xc0000261e0 0xc000026240}
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+Register private JobChannel to public WorkPool  {2 0xc00007c180 0xc0000262a0 0xc000026300}
+JobQueue add one job
+Get a job from JobQueue
+Register private JobChannel to public WorkPool  {3 0xc00007c180 0xc000026360 0xc0000263c0}
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+Register private JobChannel to public WorkPool  {0 0xc00007c180 0xc000026120 0xc000026180}
+JobQueue add one job
+Get a job from JobQueue
+Get a private jobChannel from public s.WorkerPool chan main.Job
+Worker's private jobChannel add one job
+Get a job from private w.JobChannel
+{{1}}
+Register private JobChannel to public WorkPool  {4 0xc00007c180 0xc000026420 0xc000026480}
+Worker exit:  {4 0xc00007c180 0xc000026420 0xc000026480}
+Worker exit:  {1 0xc00007c180 0xc0000261e0 0xc000026240}
+Worker exit:  {0 0xc00007c180 0xc000026120 0xc000026180}
+Worker exit:  {2 0xc00007c180 0xc0000262a0 0xc000026300}
+Worker exit:  {3 0xc00007c180 0xc000026360 0xc0000263c0}
